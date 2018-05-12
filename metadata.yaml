@@ -1,0 +1,40 @@
+_repo: Past-and-Present_13534
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carlyle, Thomas
+    alias: Carlyle, T. (Thomas)
+    birthdate: 1795
+    deathdate: 1881
+    gutenberg_agent_id: '523'
+    url: http://www.gutenberg.org/2009/agents/523
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Carlyle
+description: "Past and Present is a book by Thomas Carlyle. It was published in April\
+  \ 1843 in England and the following month in the United States. It combines medieval\
+  \ history with criticism of 19th-century British society. Carlyle wrote it in seven\
+  \ weeks as a respite from the harassing labor of writing Cromwell. He was inspired\
+  \ by the recently published Chronicles of the Abbey of Saint Edmund's Bury, which\
+  \ had been written by Jocelin of Brakelond at the close of the 12th century. This\
+  \ account of a medieval monastery had taken Carlyle's fancy, and he drew upon it\
+  \ in order to contrast the monks' reverence for work and heroism with the sham leadership\
+  \ of his own day.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13534'
+  wikidata: Q7142925
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social problems'
+- !lcsh 'Great Britain -- Social conditions -- 19th century'
+- !lcc 'PR'
+title: Past and Present
+url: http://www.gutenberg.org/ebooks/13534
+wikipedia:
+- https://en.wikipedia.org/wiki/Past_and_Present_(book)
