@@ -21,6 +21,8 @@ description: "Past and Present is a book by Thomas Carlyle. It was published in 
   \ account of a medieval monastery had taken Carlyle's fancy, and he drew upon it\
   \ in order to contrast the monks' reverence for work and heroism with the sham leadership\
   \ of his own day.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13534#Past-and-Present
 gutenberg_issued: '2004-09-27'
 gutenberg_type: Text
 identifiers:
